@@ -121,13 +121,13 @@ body {
 }
 
 .app-download:nth-child(1) {
-    background-image: url('./Pagina inicial Instagram/App-Store.png');
+    background-image: url('./imagens/App-Store.png');
     height: 3.4rem;
     width: 10;
 }
 
 .app-download:nth-child(2) {
-    background-image: url('./Pagina inicial Instagram/Playstore.png');
+    background-image: url('./imagens/Playstore.png');
     background-size: contain;
     height: 3rem;
     width: 10rem;
